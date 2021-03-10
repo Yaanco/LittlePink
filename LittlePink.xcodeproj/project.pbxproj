@@ -15,6 +15,7 @@
 		A1C631FC25F761BF001521F6 /* LittlePink.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A1C631FA25F761BF001521F6 /* LittlePink.xcdatamodeld */; };
 		A1C631FE25F761C1001521F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1C631FD25F761C1001521F6 /* Assets.xcassets */; };
 		A1C6320125F761C1001521F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1C631FF25F761C1001521F6 /* LaunchScreen.storyboard */; };
+		A1C6320925F87905001521F6 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = A1C6320825F87905001521F6 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		A1C631FD25F761C1001521F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A1C6320025F761C1001521F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A1C6320225F761C1001521F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A1C6320825F87905001521F6 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		D241F5BE3BE1040512BBCC01 /* Pods-LittlePink.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LittlePink.release.xcconfig"; path = "Target Support Files/Pods-LittlePink/Pods-LittlePink.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -55,6 +57,7 @@
 		A1C631E525F761BF001521F6 = {
 			isa = PBXGroup;
 			children = (
+				A1C6320825F87905001521F6 /* .gitignore */,
 				A1C631F025F761BF001521F6 /* LittlePink */,
 				A1C631EF25F761BF001521F6 /* Products */,
 				C3C50A69AF97368FE347EA5D /* Pods */,
@@ -153,6 +156,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A1C6320925F87905001521F6 /* .gitignore in Resources */,
 				A1C6320125F761C1001521F6 /* LaunchScreen.storyboard in Resources */,
 				A1C631FE25F761C1001521F6 /* Assets.xcassets in Resources */,
 				A1C631F925F761BF001521F6 /* Main.storyboard in Resources */,
